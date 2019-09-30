@@ -1,0 +1,35 @@
+.section-title {
+    font-size: 200%;
+}
+.main-section-title {
+    font-size: 300%;
+    text-align: center;
+}
+body {
+    background-image: url(../assets/images/R2MvQxc.jpg);
+    background-position: center;
+    background-attachment: fixed;
+}
+.character {
+    display: inline-block;
+    border-style: solid;
+    border-color: red;
+    border-width: 3px;
+    cursor: pointer;
+    background-color: white;
+    
+    
+}
+.character-image {
+    padding-right: 16px;
+    padding-left: 16px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    max-width: 100%
+}
+.character-name {
+    text-align: center;
+}
+.character-health { 
+    text-align: center; 
+}
